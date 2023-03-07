@@ -1,0 +1,19 @@
+{
+    "name": "phputils/utils",
+    "description": "Reusable functions package for Laravel Projects",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Phputils\\Utils\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roshani",
+            "email": "roshani@savitriya.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
